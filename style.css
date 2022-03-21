@@ -1,0 +1,40 @@
+body {
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #9ed7f6;
+  background-image: url(denmark.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: contain;
+}
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+img {
+  max-width: 100%;
+}
+h1 {
+  font-size: 3rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+h2 {
+  font-size: 2rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+p {
+  text-align: justify;
+}
+time {
+  color: #777;
+}
+article {
+  background-color: aliceblue;
+  border: 1px solid #777;
+  border-radius: 5px;
+  margin-bottom: 60px;
+}
+.text-content {
+  margin: 30px;
+}
